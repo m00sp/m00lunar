@@ -1,0 +1,6 @@
+(1/5) Upgrading python3 (3.12.3-r1 -> 3.12.3-r2)
+(2/5) Upgrading python3-pycache-pyc0 (3.12.3-r1 -> 3.12.3-r2)
+(3/5) Upgrading pyc (3.12.3-r1 -> 3.12.3-r2)
+(4/5) Upgrading python3-pyc (3.12.3-r1 -> 3.12.3-r2)
+(5/5) Upgrading chromium (127.0.6533.99-r0 -> 128.0.6613.84-r0)
+OK: 1955 packages, 19001 dirs, 310971 files, 13161 MiB
